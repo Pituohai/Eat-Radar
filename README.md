@@ -1,5 +1,7 @@
 # Eat-Radar
-We will add the radar data for submitted radar-based food intake manuscript soon, as this manuscirpt and the dataset is still in under review status.
-Once the paper is accepted, the dataset will be published in KU Leuven Research Data Repository.
-
-Similar as what we did for drinking gesture detection with IMU sensor: https://github.com/Pituohai/drinking-gesture-dataset/
+## The related publication
+This is the dataset used in the paper **Eat-Radar: Continuous Fine-Grained Eating Gesture Detection Using FMCW Radar and 3D Temporal Convolutional Network**. The manuscript is currently under reivew, however we have a preprint version on arXiv. Find our paper [here](https://arxiv.org/abs/2211.04253)
+## Download the dataset
+The dataset is now in the KU Leuven research data repository, you can download the dataset [here](https://rdr.kuleuven.be/dataset.xhtml?persistentId=doi:10.48804/NQSH4F)
+## Citation
+If you use this dataset, please consider citing our publication.
